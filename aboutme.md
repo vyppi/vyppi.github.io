@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vipul Bhojwani. I work as a Software Developer in India. I'm also fond of running and cycling when the weather permits. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Why this blog?
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I primarily work on C# and related technologies and like everyone else I stumble onto isues that take far longer than I would like to admit. This blog aims to write about all such issues and also various learnings / tips and tricks that I come across in my day to day work. The idea is to be able to do lots of reasearch mylesf before writing something here and also that it benefits someone else out there. 
