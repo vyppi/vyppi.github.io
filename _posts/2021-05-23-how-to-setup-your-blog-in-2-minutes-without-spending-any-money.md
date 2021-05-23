@@ -26,9 +26,9 @@ Very Easy. Follow the below steps and you should be done in 2 Minutes.
 1. Register on Github
 2. Login to your Github Account and go to [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 3. Click on Fork Button (top right)
-4. After the Fork is complete you would see a repository with the name <your-user-name>/beautiful-jekyll
+4. After the Fork is complete you would see a repository with the name your-user-name/beautiful-jekyll
 5. Click the Settings Button
-6. Change the Repository Name to <your-user-name>.github.io
-7. Naviagate to https://<your-user-name>.github.io
+6. Change the Repository Name to your-user-name.github.io
+7. Naviagate to https://your-user-name.github.io
   
 Thats it, your blog is setup now :)
